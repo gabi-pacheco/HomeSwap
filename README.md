@@ -4,7 +4,7 @@ This project is the culmination of a 400-hour Data Analytics bootcamp at Le Wago
 
 You can access the streamed presentation [here](https://youtu.be/3r17zuc80HY).
 
-You can see the dashboard [here](1_homeswap_overview.pdf).
+You can see the dashboard [here](dashboard/Home_swap.pdf).
 
 **Mission:** Identify the factors contributing to subscriber churn and provide actionable insights based on this analysis.
 
